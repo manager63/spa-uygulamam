@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # template-react-spa-site
 
 A lightweight, modern React Single Page Application (SPA) template using Vite, TailwindCSS, and Radix UI. Built for speed, accessibility, and rapid development — with optional GraphQL integration via urql.
@@ -132,3 +133,6 @@ make test
 ## 📜 License
 
 MIT — use it however you like!
+=======
+# spa-uygulamam
+>>>>>>> 7020351df1fd331df69a029980a94e31a0d17b8e
